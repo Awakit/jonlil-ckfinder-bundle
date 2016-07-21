@@ -1,7 +1,7 @@
 {
     "name": "awakit/jonlil-ckfinder-bundle",
     "type": "symfony-bundle",
-    "description": "fork to keep 5.3 compatibilty",
+    "description": "fork to keep 5.3 compatibilty and 2.3.1 jonlil/ckfinder",
     "keywords": ["CKFinder", "CKEditor"],
     "authors": [
         {
@@ -14,7 +14,7 @@
         "symfony/framework-bundle": ">=2.1",
         "symfony/assetic-bundle": ">=2.1",
         "egeloen/ckeditor-bundle": "2.2.*@dev",
-        "awakit/jonlil-ckfinder": "2.3.1"
+        "awakit/jonlil-ckfinder": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "*",
